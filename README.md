@@ -17,7 +17,7 @@ Téléchargez et installez l'application sur votre appareil Android.
 Lancez l'application.
 Saisissez les nombres dans les champs prévus.
 Sélectionnez l'opération souhaitée à l'aide des boutons.
-Cliquez sur le bouton "Calculer" pour afficher le résultat.
+le résultats'affiche directement .
 Technologies utilisées
 Langage de programmation : Java
 Environnement de développement intégré (IDE) : Android Studio
