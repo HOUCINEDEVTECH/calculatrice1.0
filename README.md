@@ -9,7 +9,7 @@ Multiplication de deux nombres.
 Division de deux nombres (avec gestion de la division par zéro).
 Calcul du modulo (reste de la division).
 Interface utilisateur intuitive et conviviale.
-Captures d'écran
+
 
 
 Comment utiliser
