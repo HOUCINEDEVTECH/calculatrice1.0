@@ -3,7 +3,8 @@ Description
 La Calculatrice 1.0 est une application Android simple développée dans le cadre d'un projet personnel. Cette application permet aux utilisateurs d'effectuer des opérations arithmétiques de base telles que l'addition, la soustraction, la multiplication et la division. Elle dispose également d'une fonctionnalité pour calculer le modulo.
 
 Fonctionnalités
-Addition de deux nombres.
+Addition de deux nombres.![calculatrice](https://github.com/HOUCINEDEVTECH/calculatrice1.0/assets/123328689/014fd0b7-13bb-4e65-a847-6ad1150ac145)
+
 Soustraction de deux nombres.
 Multiplication de deux nombres.
 Division de deux nombres (avec gestion de la division par zéro).
